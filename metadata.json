@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI",
+  "description": "AI-powered civic infrastructure management and public accountability platform. From Citizen Voice to Civic Action.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
